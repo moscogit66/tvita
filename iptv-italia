@@ -236,3 +236,5 @@ https://amg02512-amg02512c8-samsung-it-5139.playouts.now.amagi.tv/playlist/amg02
 https://chili-chili-alta-tensione-1-it.plex.wurl.tv/4300.m3u8
 #EXTINF:-1 channel-id="samsung-ITBC11000047F" tvg-id="ITBC11000047F" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/chilivelvet.png" group-title="Film",CHILI Film Romantici
 https://chili-chilivelvet-1-it.plex.wurl.tv/4300.m3u8
+#EXTINF:-1 group-title="Estero" tvg_logo="https://d1lnjfyey7pbh6.cloudfront.net/content/1664420072356-LA7_500x500.png",LA7 Italia
+https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
