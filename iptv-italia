@@ -250,6 +250,6 @@ https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
 #EXTINF:-1 tvg-name="RSI La1" tvg-id="rsila1" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/RSILa1.png" group-title="Altro",RSI La1
 https://netplus.zappr.stream/rsila1hd.m3u8
 #EXTINF:-1 tvg-name="RSI La2" tvg-id="rsila2" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/RSILa2.png" group-title="Altro",RSI La2
-https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
+https://srgssrlsvech-d.akamaized.net/out/v1/df7f7bee9c864d869a2e439387d24500/index.m3u8?start=1781724174&hdnts=exp%3D1781735041%7Eacl%3D%2Fout%2Fv1%2Fdf7f7bee9c864d869a2e439387d24500%2F*%7Ehmac%3Dfdf49b5db2a678df82d04335736761c6fb7929738c440fae687b93d90ef06748
 #EXTINF:-1 tvg-name="MAN-GA" tvg-id="Manga.it" tvg-chno="48" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/man-ga.png" group-title="Altro",MAN-GA
 https://vdnwndmsc2-c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.mpd
