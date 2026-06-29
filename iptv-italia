@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Rai1.it" tvg-chno="1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" group-title="Rai",Rai 1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8#92113c49b96bf0ff06e603f6988567d106eebcd6d5af051f082784664131ccc0
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="Rai2.it" tvg-chno="2" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png" group-title="Rai",Rai 2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
